@@ -188,7 +188,7 @@ class tx_rlmpdateselectlib {
 						// This function gets called when the end-user clicks on some date.
 					function tx_rlmpdateselectlib_selected(cal, date) {
 						cal.sel.value = date; // just update the date in the input field.
-						cal.sel.onchange();
+			//			cal.sel.onchange();
 						cal.callCloseHandler();
 					}
 

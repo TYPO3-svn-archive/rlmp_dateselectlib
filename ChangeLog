@@ -1,5 +1,8 @@
+30.09.2008
+	# Fixed a bug which appeared in IE and Opera: the year jumped to next year when selected the next month. Thanks to all those who send in the report and fix!
+
 09.01.2007  Robert Lemke <robert@typo3.org>
-	+ Added french translation (thanks to Nicolas Garabédian)
+	+ Added french translation (thanks to Nicolas Garabï¿½dian)
 
 16.08.2006	Roland Robelix Obermayer <roland@robelix.com>
 
